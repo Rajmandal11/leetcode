@@ -39,4 +39,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Rajmandal11/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rajmandal11/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
