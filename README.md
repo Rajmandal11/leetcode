@@ -6,6 +6,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
+| [3794-reverse-string-prefix](https://github.com/Rajmandal11/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,4 +27,5 @@
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
+| [3794-reverse-string-prefix](https://github.com/Rajmandal11/leetcode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
