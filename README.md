@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/Rajmandal11/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Rajmandal11/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
