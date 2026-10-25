@@ -24,11 +24,13 @@
 | ------- |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -48,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/Rajmandal11/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -64,4 +68,8 @@
 |  |
 | ------- |
 | [0965-univalued-binary-tree](https://github.com/Rajmandal11/leetcode/tree/master/0965-univalued-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
