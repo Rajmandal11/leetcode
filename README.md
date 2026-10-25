@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -45,5 +46,6 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rajmandal11/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
