@@ -6,6 +6,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
 | [0065-valid-number](https://github.com/Rajmandal11/leetcode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Rajmandal11/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
@@ -72,4 +74,12 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
