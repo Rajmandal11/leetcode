@@ -11,12 +11,14 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Rajmandal11/leetcode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/Rajmandal11/leetcode/tree/master/1668-maximum-repeating-substring) |
 | [3794-reverse-string-prefix](https://github.com/Rajmandal11/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
+| [1668-maximum-repeating-substring](https://github.com/Rajmandal11/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -96,4 +98,5 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rajmandal11/leetcode/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/Rajmandal11/leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
