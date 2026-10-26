@@ -15,11 +15,13 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
+| [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rajmandal11/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
 |  |
