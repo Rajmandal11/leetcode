@@ -56,6 +56,7 @@
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/Rajmandal11/leetcode/tree/master/0258-add-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
 |  |
@@ -85,4 +86,9 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Rajmandal11/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rajmandal11/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
