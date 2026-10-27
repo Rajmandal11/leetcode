@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
 | [3794-reverse-string-prefix](https://github.com/Rajmandal11/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -99,4 +101,8 @@
 | ------- |
 | [0796-rotate-string](https://github.com/Rajmandal11/leetcode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/Rajmandal11/leetcode/tree/master/1668-maximum-repeating-substring) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
