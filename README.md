@@ -7,6 +7,7 @@
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Rajmandal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajmandal11/leetcode/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/Rajmandal11/leetcode/tree/master/0038-count-and-say) |
 | [0065-valid-number](https://github.com/Rajmandal11/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
