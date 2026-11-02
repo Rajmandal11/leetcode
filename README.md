@@ -33,6 +33,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Rajmandal11/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rajmandal11/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
