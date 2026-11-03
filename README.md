@@ -34,6 +34,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -74,6 +75,7 @@
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Rajmandal11/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
@@ -111,6 +113,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rajmandal11/leetcode/tree/master/0258-add-digits) |
 ## String Matching
 |  |
@@ -140,4 +143,20 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
