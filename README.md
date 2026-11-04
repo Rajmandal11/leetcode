@@ -12,6 +12,7 @@
 | [0065-valid-number](https://github.com/Rajmandal11/leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Rajmandal11/leetcode/tree/master/0796-rotate-string) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
+| [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
