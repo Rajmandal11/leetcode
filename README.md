@@ -43,6 +43,7 @@
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rajmandal11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0409-longest-palindrome](https://github.com/Rajmandal11/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Rajmandal11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
