@@ -3,17 +3,16 @@ class Solution {
         int n = nums.length;
         int sum = 0;
 
-        for(int i = 0; i<k; i++){
+        for(int i = 0; i <k; i++){
             sum += nums[i];
         }
         int maxSum = sum;
-        
-        for(int i =k; i<n; i++){
+
+        for(int i = k; i<n; i++){
             sum -= nums[i-k];
             sum += nums[i];
             maxSum = Math.max(maxSum, sum);
         }
-
-        return (double) maxSum/k;
+        return (double) maxSum/ k;
     }
 }
