@@ -42,6 +42,7 @@
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
+| [0605-can-place-flowers](https://github.com/Rajmandal11/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Rajmandal11/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -176,4 +177,5 @@
 | [0011-container-with-most-water](https://github.com/Rajmandal11/leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Rajmandal11/leetcode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/Rajmandal11/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
