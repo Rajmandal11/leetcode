@@ -13,6 +13,7 @@
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Rajmandal11/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
@@ -59,6 +60,7 @@
 | [0011-container-with-most-water](https://github.com/Rajmandal11/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
 | [3794-reverse-string-prefix](https://github.com/Rajmandal11/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
