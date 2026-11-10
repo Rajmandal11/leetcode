@@ -39,6 +39,7 @@
 | [0011-container-with-most-water](https://github.com/Rajmandal11/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Rajmandal11/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Rajmandal11/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
