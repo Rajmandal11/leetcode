@@ -20,6 +20,7 @@
 | [0796-rotate-string](https://github.com/Rajmandal11/leetcode/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rajmandal11/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1668-maximum-repeating-substring](https://github.com/Rajmandal11/leetcode/tree/master/1668-maximum-repeating-substring) |
+| [1768-merge-strings-alternately](https://github.com/Rajmandal11/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/Rajmandal11/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@
 | [0283-move-zeroes](https://github.com/Rajmandal11/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
+| [1768-merge-strings-alternately](https://github.com/Rajmandal11/leetcode/tree/master/1768-merge-strings-alternately) |
 | [3794-reverse-string-prefix](https://github.com/Rajmandal11/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
