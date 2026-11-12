@@ -27,6 +27,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
+| [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
 | [1668-maximum-repeating-substring](https://github.com/Rajmandal11/leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rajmandal11/leetcode/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Rajmandal11/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -186,4 +188,16 @@
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Rajmandal11/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Rajmandal11/leetcode/tree/master/0605-can-place-flowers) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
