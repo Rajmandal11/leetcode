@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
+| [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
 | [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
 | [1668-maximum-repeating-substring](https://github.com/Rajmandal11/leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -94,6 +95,7 @@
 | [0013-roman-to-integer](https://github.com/Rajmandal11/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Rajmandal11/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
@@ -103,6 +105,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0965-univalued-binary-tree](https://github.com/Rajmandal11/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -115,6 +118,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0965-univalued-binary-tree](https://github.com/Rajmandal11/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Prefix Sum
 |  |
@@ -200,4 +204,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
