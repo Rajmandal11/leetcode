@@ -13,6 +13,7 @@
 | [0067-add-binary](https://github.com/Rajmandal11/leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Rajmandal11/leetcode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Rajmandal11/leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Rajmandal11/leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Rajmandal11/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0224-basic-calculator](https://github.com/Rajmandal11/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
 ## Array
 |  |
@@ -98,6 +100,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Rajmandal11/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Rajmandal11/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Rajmandal11/leetcode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Rajmandal11/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Rajmandal11/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
