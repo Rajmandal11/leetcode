@@ -70,6 +70,7 @@
 | [0011-container-with-most-water](https://github.com/Rajmandal11/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0148-sort-list](https://github.com/Rajmandal11/leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Rajmandal11/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Rajmandal11/leetcode/tree/master/0541-reverse-string-ii) |
@@ -92,6 +93,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Rajmandal11/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Rajmandal11/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/Rajmandal11/leetcode/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rajmandal11/leetcode/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Rajmandal11/leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
@@ -218,4 +221,12 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Rajmandal11/leetcode/tree/master/0224-basic-calculator) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rajmandal11/leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Rajmandal11/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
