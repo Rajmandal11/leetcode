@@ -49,6 +49,7 @@
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Rajmandal11/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rajmandal11/leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajmandal11/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0220-contains-duplicate-iii](https://github.com/Rajmandal11/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Rajmandal11/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajmandal11/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -161,6 +163,7 @@
 | [0148-sort-list](https://github.com/Rajmandal11/leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Rajmandal11/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/Rajmandal11/leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -229,4 +232,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rajmandal11/leetcode/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rajmandal11/leetcode/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/Rajmandal11/leetcode/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
