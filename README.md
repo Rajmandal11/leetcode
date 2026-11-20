@@ -51,6 +51,7 @@
 | [0204-count-primes](https://github.com/Rajmandal11/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Rajmandal11/leetcode/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Rajmandal11/leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0238-product-of-array-except-self](https://github.com/Rajmandal11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Rajmandal11/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rajmandal11/leetcode/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Rajmandal11/leetcode/tree/master/0494-target-sum) |
@@ -135,6 +136,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rajmandal11/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rajmandal11/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
