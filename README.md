@@ -121,19 +121,23 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Rajmandal11/leetcode/tree/master/0100-same-tree) |
 | [0965-univalued-binary-tree](https://github.com/Rajmandal11/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rajmandal11/leetcode/tree/master/0100-same-tree) |
 | [0965-univalued-binary-tree](https://github.com/Rajmandal11/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Rajmandal11/leetcode/tree/master/0100-same-tree) |
 | [0965-univalued-binary-tree](https://github.com/Rajmandal11/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rajmandal11/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/Rajmandal11/leetcode/tree/master/0100-same-tree) |
 | [0965-univalued-binary-tree](https://github.com/Rajmandal11/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Prefix Sum
 |  |
